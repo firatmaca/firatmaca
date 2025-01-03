@@ -1,7 +1,6 @@
 ### Hi there, I'm Fırat Atmaca 👋
 ## I'am a Java Developer from   <span><a href="https://www.icterra.com/tr/">ICterra</a> </span> 
 
-🌱 I’m currently learning Spring Boot
 
 ## 💻 Tech Stack:
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
